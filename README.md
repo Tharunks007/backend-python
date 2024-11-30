@@ -204,6 +204,8 @@ some_article = Article(28372, 1)
 assert rbac.go(1, some_article, delete) is None
 ```
 
+NOTE: The file is in zip type .Please unzip and use . The file name is "rbac-backend-main.zip"
+
 ## Versioning
 This library uses calendar versioning.
 
